@@ -1,3 +1,7 @@
+
+![alt text](https://raw.githubusercontent.com/gogus/binoculars/main/img.png)
+
+
 # General description
 
 Binoculars it's an app that is estimating real-time traffic in places anywhere in the world based on publicly available data like e.g. Social Media, Government APIs. It can help to solve the main issues of the current pandemic situation: keeping social distancing and re-boosting the economy.
@@ -21,9 +25,9 @@ Application shares only the IP Address of the User to download the database of c
 
 # Future Plans
 
-Possibilities to plan run/bicycle activities.
+Possibilities to plan run/bicycle/shop/bar activities.
 
-AI Recommendation system.
+AI based recommendation system.
 
 Live application ready in App Store/Google Play.
 
